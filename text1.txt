@@ -1,2 +1,2 @@
-This is a new sample text
+This is a new real text
 This is another new sample text
